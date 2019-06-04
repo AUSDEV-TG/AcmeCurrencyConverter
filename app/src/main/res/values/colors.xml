@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colors for Activities and Toolbars -->
+    <color name="colorPrimary">#2E7D32</color>
+    <color name="colorPrimaryLight">#558B2F</color>
+    <color name="colorAccent">#000</color>
+
+    <!-- Background Colors -->
+    <color name="background_black">#000</color>
+    <color name="background_white">#FFF</color>
+    <color name="background_red">#F20</color>
+    <color name="background_green">#10BA32</color>
+    <color name="background_blue">#1057BA</color>
+    <color name="background_purple">#8410BA</color>
+    <color name="background_orange">#E27D09</color>
+    <color name="background_yellow">#F2FF00</color>
+    <color name="background_gold">#DBC118</color>
+    <color name="background_silver">#CED9E2</color>
+</resources>

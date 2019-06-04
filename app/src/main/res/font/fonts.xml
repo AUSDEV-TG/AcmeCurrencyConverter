@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<font-family xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!-- All Custom Font Families -->
+    <font app:fontStyle="normal" app:fontWeight="400" app:font="@font/fustschoefferdurandusgoticoantiqua118g"/>
+    <font app:fontStyle="normal" app:fontWeight="400" app:font="@font/getlost"/>
+    <font app:fontStyle="normal" app:fontWeight="400" app:font="@font/itikaffree"/>
+    <font app:fontStyle="normal" app:fontWeight="400" app:font="@font/jessencicero12"/>
+    <font app:fontStyle="normal" app:fontWeight="400" app:font="@font/oldexcalibur"/>
+    <font app:fontStyle="normal" app:fontWeight="400" app:font="@font/parixhybrid111r"/>
+    <font app:fontStyle="normal" app:fontWeight="400" app:font="@font/plompraeng"/>
+    <font app:fontStyle="normal" app:fontWeight="400" app:font="@font/publicsansblack"/>
+    <font app:fontStyle="normal" app:fontWeight="400" app:font="@font/sannisa"/>
+    <font app:fontStyle="normal" app:fontWeight="400" app:font="@font/schoolteacherregular"/>
+    <font app:fontStyle="normal" app:fontWeight="400" app:font="@font/stokytdemo"/>
+    <font app:fontStyle="normal" app:fontWeight="400" app:font="@font/wavepool"/>
+    <font app:fontStyle="normal" app:fontWeight="400" app:font="@font/cartoonfree"/>
+</font-family>

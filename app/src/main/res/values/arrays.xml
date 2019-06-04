@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Spinner Values for currencies -->
+    <string-array name="spinner_values">
+        <item name="1">US Dollar</item>
+        <item name="2">Euro</item>
+        <item name="3">Japanese Yen</item>
+        <item name="4">Pound Sterling</item>
+        <item name="5">Australian Dollar</item>
+        <item name="6">Canadian Dollar</item>
+        <item name="7">Swiss Franc</item>
+        <item name="8">Chinese Renminbi</item>
+        <item name="9">Swedish Krona</item>
+        <item name="10">New Zealand Dollar</item>
+    </string-array>
+
+    <!-- Text Size Array -->
+    <string-array name="text_size">
+        <item name="1">8</item>
+        <item name="2">12</item>
+        <item name="3">16</item>
+        <item name="4">20</item>
+    </string-array>
+    <!-- Array for Text Size preference values -->
+    <string-array name="text_size_values">
+        <item name="1">1</item>
+        <item name="2">2</item>
+        <item name="3">3</item>
+        <item name="4">4</item>
+    </string-array>
+
+    <!-- Font Type Array -->
+    <string-array name="font">
+        <item name="1">Default</item>
+        <item name="2">Fust&amp;Schoeffer</item>
+        <item name="3">Get Lost!</item>
+        <item name="4">Itikaf FREE</item>
+        <item name="5">Jessen</item>
+        <item name="6">OldExcalibur</item>
+        <item name="7">Parix</item>
+        <item name="8">PlomPraeng</item>
+        <item name="9">PublicSans</item>
+        <item name="10">Sannisa</item>
+        <item name="11">SchoolTeacher</item>
+        <item name="12">Stokyt</item>
+        <item name="13">Wavepool</item>
+        <item name="14">CARTOON FREE</item>
+    </string-array>
+    <!-- Array for Font preference values -->
+    <string-array name="font_values">
+        <item name="1">1</item>
+        <item name="2">2</item>
+        <item name="3">3</item>
+        <item name="4">4</item>
+        <item name="5">5</item>
+        <item name="6">6</item>
+        <item name="7">7</item>
+        <item name="8">8</item>
+        <item name="9">9</item>
+        <item name="10">10</item>
+        <item name="11">11</item>
+        <item name="12">12</item>
+        <item name="13">13</item>
+        <item name="14">14</item>
+    </string-array>
+
+    <!-- Text Colour Array-->
+    <string-array name="text_colour">
+        <item name="1">Black</item>
+        <item name="2">White</item>
+        <item name="3">Red</item>
+        <item name="4">Green</item>
+        <item name="5">Blue</item>
+        <item name="6">Magenta</item>
+    </string-array>
+    <!-- Array for Text Colour preference values -->
+    <string-array name="text_colour_values">
+        <item name="1">1</item>
+        <item name="2">2</item>
+        <item name="3">3</item>
+        <item name="4">4</item>
+        <item name="5">5</item>
+        <item name="6">6</item>
+    </string-array>
+
+    <!-- Background Colour Array -->
+    <string-array name="background_colour">
+        <item name="1">Black</item>
+        <item name="2">White</item>
+        <item name="3">Red</item>
+        <item name="4">Green</item>
+        <item name="5">Blue</item>
+        <item name="6">Purple</item>
+        <item name="7">Orange</item>
+        <item name="8">Yellow</item>
+        <item name="9">Gold</item>
+        <item name="10">Silver</item>
+    </string-array>
+    <!-- Array for Background preference values -->
+    <string-array name="background_colour_values">
+        <item name="1">1</item>
+        <item name="2">2</item>
+        <item name="3">3</item>
+        <item name="4">4</item>
+        <item name="5">5</item>
+        <item name="6">6</item>
+        <item name="7">7</item>
+        <item name="8">8</item>
+        <item name="9">9</item>
+        <item name="10">10</item>
+    </string-array>
+
+    <!-- Spinner Colour Array -->
+    <string-array name="spinners_colour">
+        <item name="1">Black</item>
+        <item name="2">White</item>
+        <item name="3">Red</item>
+        <item name="4">Green</item>
+        <item name="5">Blue</item>
+        <item name="6">Purple</item>
+        <item name="7">Orange</item>
+        <item name="8">Yellow</item>
+        <item name="9">Gold</item>
+        <item name="10">Silver</item>
+    </string-array>
+    <!-- Array for Spinner preference values -->
+    <string-array name="spinners_colour_values">
+        <item name="1">1</item>
+        <item name="2">2</item>
+        <item name="3">3</item>
+        <item name="4">4</item>
+        <item name="5">5</item>
+        <item name="6">6</item>
+        <item name="7">7</item>
+        <item name="8">8</item>
+        <item name="9">9</item>
+        <item name="10">10</item>
+    </string-array>
+</resources>

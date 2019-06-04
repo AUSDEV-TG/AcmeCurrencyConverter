@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Text Settings Category -->
+    <PreferenceCategory android:title="@string/text_settings">
+
+        <!-- Size Preference -->
+        <ListPreference
+            android:defaultValue="1"
+            android:entries="@array/text_size"
+            android:entryValues="@array/text_size_values"
+            android:key="size"
+            android:summary="@string/size_summary"
+            android:title="@string/size" />
+
+        <!-- Font Preference -->
+        <ListPreference
+            android:defaultValue="1"
+            android:entries="@array/font"
+            android:entryValues="@array/font_values"
+            android:key="font"
+            android:summary="@string/font_summary"
+            android:title="@string/font" />
+
+        <!-- Text Colour Preference -->
+        <ListPreference
+            android:defaultValue="1"
+            android:entries="@array/text_colour"
+            android:entryValues="@array/text_colour_values"
+            android:key="colour"
+            android:summary="@string/colour_summary"
+            android:title="@string/colour" />
+    </PreferenceCategory>
+
+    <!-- Theme Settings Category -->
+    <PreferenceCategory android:title="@string/theme_settings">
+
+        <!-- Background Colour Preference -->
+        <ListPreference
+            android:defaultValue="2"
+            android:entries="@array/background_colour"
+            android:entryValues="@array/background_colour_values"
+            android:key="background"
+            android:summary="@string/background_summary"
+            android:title="@string/background" />
+
+        <!-- Spinner 1 Colour Preference -->
+        <ListPreference
+            android:entries="@array/spinners_colour"
+            android:entryValues="@array/spinners_colour_values"
+            android:key="spinner_1"
+            android:summary="@string/spinner_1_summary"
+            android:title="@string/spinner_1" />
+        <!-- Spinner 2 Colour Preference -->
+        <ListPreference
+            android:entries="@array/spinners_colour"
+            android:entryValues="@array/spinners_colour_values"
+            android:key="spinner_2"
+            android:summary="@string/spinner_2_summary"
+            android:title="@string/spinner_2" />
+    </PreferenceCategory>
+</PreferenceScreen>
